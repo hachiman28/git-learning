@@ -8,4 +8,4 @@ Sub headings and all.
 
 ## Local Development
 
-1. Open index.html file in your browser
+1. Open index.html file in your browser.
